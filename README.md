@@ -15,25 +15,37 @@ Game Over Logic: Collision detection with obstacles and ground triggers a game o
 Responsive Design: Works on both desktop and mobile browsers.
 
 **🛠️ Technologies Used:**
+
 HTML5 Canvas for rendering graphics.
+
 JavaScript for game logic and physics.
+
 CSS for styling.
+
 **🎮 How to Play:**
+
 Press the spacebar (or click/tap on the screen) to make the bird jump.
+
 Avoid hitting the pipes and the ground.
+
 Keep flying as far as possible to achieve a high score.
+
 The game ends when the bird collides with an obstacle.
 
-
 **📂 Installation & Running:**
+
 Clone this repository:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/flappy-game.git
+
+git clone https://github.com/Mazid2003/Flappy-bird-game-using-javascript.git
+
 Open index.html in a browser.
+
 Enjoy the game!
+
 **💡 Future Improvements:**
+
 Sound effects and background music.
+
 More difficulty levels.
+
 Enhanced graphics and animations.
