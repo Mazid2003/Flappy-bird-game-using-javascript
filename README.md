@@ -49,3 +49,7 @@ Sound effects and background music.
 More difficulty levels.
 
 Enhanced graphics and animations.
+
+**📜 License**
+
+This project is open-source under the MIT License.
