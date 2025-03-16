@@ -1,4 +1,4 @@
-# Flappy Bird Game (JavaScript)
+# Flappy Bird Game 🐤 (JavaScript)
 
 This is a simple Flappy Bird-style game built using HTML, CSS, and JavaScript. The game features a flying bird that the player controls by tapping or pressing a key to keep it in the air while avoiding obstacles.
 
