@@ -52,4 +52,4 @@ Enhanced graphics and animations.
 
 **📜 License**
 
-This project is open-source under the MIT License.
+This project is open-source under the MIT License. Feel free to use and modify it! 🚀
