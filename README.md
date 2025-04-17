@@ -32,6 +32,13 @@ Keep flying as far as possible to achieve a high score.
 
 The game ends when the bird collides with an obstacle.
 
+**Screenshots**
+**1.**
+![screenshot_2025-04-16_10-44-34](https://github.com/user-attachments/assets/bf10ad95-c1b1-4393-8028-78a2acac3e76)
+
+**2.**
+![screenshot_2025-04-16_10-45-11](https://github.com/user-attachments/assets/b2731072-5906-4935-b968-38afaf397302)
+
 **📂 Installation & Running:**
 
 Clone this repository:
