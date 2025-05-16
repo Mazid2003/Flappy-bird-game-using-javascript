@@ -60,3 +60,11 @@ Enhanced graphics and animations.
 **📜 License**
 
 This project is open-source under the MIT License. Feel free to use and modify it! 🚀
+
+👨‍💻 Author
+
+Created by Mohammad Mazid
+
+Email:mazidmd750@gmail.com
+
+Linkedin: https://www.linkedin.com/in/mohammadmazid
