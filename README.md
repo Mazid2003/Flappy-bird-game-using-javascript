@@ -61,7 +61,7 @@ Enhanced graphics and animations.
 
 This project is open-source under the MIT License. Feel free to use and modify it! 🚀
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Created by Mohammad Mazid
 
